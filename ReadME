@@ -1,1 +1,5 @@
-the web is made up of html files and other resources that are linked together. the html, css and javascriptar stored on servers. Hypertext are referenced which are joined by links. to load a web page, your browser sends a request to the server that houses your files which are stored under a dns. A browser communicates with the servers to ge the files.
+the web is made up of html files and other resources that are linked together. the html, css and javascriptar stored on servers. Hypertext are referenced which are joined by links. to load a web page, your browser sends a request to the server that houses your files which are stored under a dns. A browser communicates with the servers to ge the files. these servers have computer progrms that run on them to send these files when the browser requests for them.
+HTTp are a set of rules the browser uses to communicate with the server. HTTPs is when your communication is encrypted, so your data is secure.
+you only nedd to upload your web page on a server if you want other people on the internet to be able to load it. you can simply save the page on yoour computer and load it in your browser
+SYNTAX: grammar rules for a computer language
+A code will only do exactly what you've asked it to do, this is called formalism.
